@@ -5,8 +5,8 @@ Educational project in financial analysis: applying volatility, beta, Sharpe rat
 ## Project Outputs
 
 You can download all project outputs below:
-- Excel analysis file: [Download Excel](./data/stock_analysis_results.xlsx)
-- Final report (PDF): [Download PDF](./report/stock_analysis_insights.pdf)
+- Excel analysis file: [View Excel File](https://docs.google.com/spreadsheets/d/1CzBb5MF6igKOx3wPNbYXlDTmLiEigesR/edit?usp=drive_link&ouid=107328358396280918835&rtpof=true&sd=true)
+- Final report (PDF): [View PDF Report](https://drive.google.com/file/d/14MC7gtQR61wUE_q-rsPua5ssFRkPArbz/view?usp=sharing)
 
 ## Project Overview
 
