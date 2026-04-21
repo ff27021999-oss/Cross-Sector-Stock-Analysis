@@ -2,8 +2,11 @@
 
 **Description:**  
 Educational project in financial analysis: applying volatility, beta, Sharpe ratio and CAPM to real market data.
-📄 [Download Full Report](./report/stock_analysis_insights.pdf)
----
+## Project Outputs
+
+You can download all project outputs below:
+- Excel analysis file: [Download Excel](./data/stock_analysis_results.xlsx)
+- Final report (PDF): [Download PDF](./report/stock_analysis_insights.pdf)
 
 ## Project Overview
 
