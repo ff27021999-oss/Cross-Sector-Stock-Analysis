@@ -2,7 +2,7 @@
 
 **Description:**  
 Educational project in financial analysis: applying volatility, beta, Sharpe ratio and CAPM to real market data.
-
+📄 [Download Full Report](./report/stock_analysis_insights.pdf)
 ---
 
 ## Project Overview
